@@ -1,0 +1,33 @@
+body { 
+    background-color: #1C2526; 
+    color: #FFFFFF; 
+} 
+h1, h2, h3 { 
+    color: #FF4500; 
+} 
+.stButton { 
+    background-color: #FF4500; 
+    color: #FFFFFF; 
+    border: none; 
+    padding: 10px 20px; 
+    border-radius: 5px; 
+} 
+.stButton { 
+    background-color: #FF6347; 
+} 
+.stTextInput { 
+    background-color: #2C3539; 
+    color: #FFFFFF; 
+    border: 1px solid #FF4500; 
+} 
+.stSelectbox { 
+    background-color: #2C3539; 
+    color: #FFFFFF; 
+    border: 1px solid #FF4500; 
+} 
+.stMetric { 
+    background-color: #2C3539; 
+    padding: 10px; 
+    border-radius: 5px; 
+    border: 1px solid #FF4500; 
+} 
